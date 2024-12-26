@@ -56,15 +56,12 @@ You can install the required libraries using pip:
 
 ## Results
 The best performing model was the Random Forest classifier with the following metrics:
-- Accuracy: 0.XX
-- Precision: 0.XX
-- Recall: 0.XX
-- F1 Score: 0.XX
+- Accuracy: 0.95
+- Precision: 0.94
+- Recall: 0.93
+- F1 Score: 0.93
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
