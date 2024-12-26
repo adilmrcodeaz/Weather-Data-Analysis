@@ -35,7 +35,7 @@ You can install the required libraries using pip:
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/seattle-weather-analysis.git
+   git clone https://github.com/adilmrcodeaz/seattle-weather-analysis.git
    cd seattle-weather-analysis
    ```
 
