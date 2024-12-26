@@ -10,7 +10,6 @@ This project involves analyzing and predicting weather patterns in Seattle using
 - [Features](#features)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 The goal of this project is to analyze Seattle's weather data and build predictive models to forecast weather conditions. The project utilizes various machine learning algorithms to predict whether it will rain based on historical weather data.
