@@ -48,10 +48,10 @@ You can install the required libraries using pip:
 
 ## Features
 - Data Preprocessing: Clean and prepare weather data for analysis.
--Feature Engineering: Create meaningful features like temperature range, average, and seasonal indicators.
--Machine Learning Model: Train a Random Forest Classifier to predict weather conditions.
--Visualization: Use Power BI for interactive data visualization.
--Performance Evaluation: Assess model accuracy and feature importance.
+- Feature Engineering: Create meaningful features like temperature range, average, and seasonal indicators.
+- Machine Learning Model: Train a Random Forest Classifier to predict weather conditions.
+- Visualization: Use Power BI for interactive data visualization.
+- Performance Evaluation: Assess model accuracy and feature importance.
 
 ## Model Details
 - Algorithm: Random Forest Classifier
